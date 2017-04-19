@@ -1,4 +1,7 @@
-# test coverage for  [duplexify (v3.5.0)](https://github.com/mafintosh/duplexify)  [![npm package](https://img.shields.io/npm/v/npmtest-duplexify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-duplexify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-duplexify.svg)](https://travis-ci.org/npmtest/node-npmtest-duplexify)
+# npmtest-duplexify
+
+#### test coverage for  [duplexify (v3.5.0)](https://github.com/mafintosh/duplexify)  [![npm package](https://img.shields.io/npm/v/npmtest-duplexify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-duplexify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-duplexify.svg)](https://travis-ci.org/npmtest/node-npmtest-duplexify)
+
 #### Turn a writable and readable stream into a streams2 duplex stream with support for async initialization and streams1/streams2 input
 
 [![NPM](https://nodei.co/npm/duplexify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/duplexify)
