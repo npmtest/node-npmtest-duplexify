@@ -1,6 +1,6 @@
 # npmtest-duplexify
 
-#### test coverage for  [duplexify (v3.5.0)](https://github.com/mafintosh/duplexify)  [![npm package](https://img.shields.io/npm/v/npmtest-duplexify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-duplexify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-duplexify.svg)](https://travis-ci.org/npmtest/node-npmtest-duplexify)
+#### basic test coverage for  [duplexify (v3.5.0)](https://github.com/mafintosh/duplexify)  [![npm package](https://img.shields.io/npm/v/npmtest-duplexify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-duplexify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-duplexify.svg)](https://travis-ci.org/npmtest/node-npmtest-duplexify)
 
 #### Turn a writable and readable stream into a streams2 duplex stream with support for async initialization and streams1/streams2 input
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-duplexify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-duplexify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-duplexify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-duplexify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-duplexify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-duplexify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-duplexify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-duplexify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-duplexify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-duplexify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-duplexify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-duplexify/build/coverage.html/index.html)
 
@@ -85,7 +85,8 @@
     "scripts": {
         "test": "tape test.js"
     },
-    "version": "3.5.0"
+    "version": "3.5.0",
+    "bin": {}
 }
 ```
 
